@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/lucasjv92" target="blank"><img src="https://img.shields.io/twitter/follow/lucasjv92?logo=twitter&style=for-the-badge" alt="lucasjv92" /></a> </p>
 
-- 🔭 I’m currently working on [RentlySoft](https://www.rentlysoft.com/)
+- 🔭 I’m currently working on [Modak](https://modakmakers.com/)
 
-- 🌱 I’m currently learning **DevOps, OpenCV, Streaming Technologies, NodeJS**
+- 🌱 I’m currently learning **QA Automation**
 
-- 💬 Ask me about **NET, JAVA or whatever**
+- 💬 Ask me about **NET, JAVA, Angular or whatever**
 
 - 📫 How to reach me **lucasjv92@gmail.com**
 
