@@ -24,7 +24,3 @@
 <a href="https://www.mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luke92&show_icons=true&locale=en&layout=compact" alt="luke92" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luke92&show_icons=true&locale=en" alt="luke92" /></p>
-
