@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luke92&label=Profile%20views&color=0e75b6&style=flat" alt="luke92" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luke92" alt="luke92" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/lucasjv92" target="blank"><img src="https://img.shields.io/twitter/follow/lucasjv92?logo=twitter&style=for-the-badge" alt="lucasjv92" /></a> </p>
 
 - 🔭 I’m currently working on [Modak](https://modakmakers.com/)
 
-- 🌱 I’m currently learning **QA Automation**
+- 🌱 I’m currently learning **Agentic Engineer or AI Engineer**
 
 - 💬 Ask me about **NET, JAVA, Angular or whatever**
 
